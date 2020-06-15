@@ -1,6 +1,12 @@
+.idea/*
 .idea
+*/target
+/target
+/target
+target/
+target
+.log
+/project/project/.idea
 .idea/*
 .target
 .target/*
-
-
