@@ -1,0 +1,6 @@
+[debug] downloaded https://repo1.maven.org/maven2/io/get-coursier/sbt-coursier_2.12_1.0/2.0.0-RC6-21/sbt-coursier-2.0.0-RC6-21.pom
+[debug] downloaded https://repo1.maven.org/maven2/io/get-coursier/sbt-coursier_2.12_1.0/2.0.0-RC6-21/sbt-coursier-2.0.0-RC6-21.pom.sha1
+[debug] downloaded https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.get-coursier/sbt-coursier/scala_2.12/sbt_1.0/2.0.0-RC6-21/ivys/ivy.xml
+[debug] downloaded https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.get-coursier/sbt-coursier/scala_2.12/sbt_1.0/2.0.0-RC6-21/ivys/ivy.xml.sha1
+[debug] downloaded https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/sbt-coursier/scala_2.12/sbt_1.0/2.0.0-RC6-21/ivys/ivy.xml
+[debug] downloaded https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/sbt-coursier/scala_2.12/sbt_1.0/2.0.0-RC6-21/ivys/ivy.xml.sha1
